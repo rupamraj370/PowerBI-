@@ -3,6 +3,10 @@ Power BI dashboard that visualises global and Indian aeroplane accidents over ti
 
 ---
 
+<img width="585" height="326" alt="Report" src="https://github.com/user-attachments/assets/0d873854-1a7d-4395-8a3f-e2ecaabe8c49" />
+
+
+
 ## 🚀 Project Story  
 
 On June 12, 2025, tragedy struck when Air India Flight 171, a Boeing 787-8 Dreamliner departing Ahmedabad, stalled moments after takeoff and crashed into a nearby medical hostel. With 241 passengers and crew lost, plus 34 lives on the ground, it became the deadliest aviation accident in India in over a decade.  
